@@ -8,5 +8,5 @@ function returnsANamedFunction(){
 }
 
 function returnsAnAnonymousFunction(){
-    return function (){'I have no name' }
+    return function (){}
 }
